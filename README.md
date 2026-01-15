@@ -2,6 +2,8 @@
 
 Un générateur d'articles de blog intelligent qui utilise soit l'API d'Anthropic (Claude 3.5), soit un modèle local via LM Studio pour créer du contenu optimisé SEO à partir de données Google Ads.
 
+![Capture d'écran de l'application](./screenshot.png)
+
 ## ⚠️ État du Projet
 
 **Attention : Cette application est actuellement en cours de développement.**
